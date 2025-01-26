@@ -1,0 +1,16 @@
+.Boba{
+        color:palegreen;
+        background-color:gainsboro ;
+        padding: 10px;
+        border-radius: 10px;
+        border-radius: 1px solid blue;
+}
+
+.Boba:hover{
+        color:cyan;
+        padding: 10px;
+        border-radius: 10px;
+        border-radius: 10px;
+        background-color:brown;
+        outline-color: black; 
+}
