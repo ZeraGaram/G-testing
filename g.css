@@ -1,3 +1,4 @@
+
 .Boba{
         color:palegreen;
         background-color:chocolate;
@@ -15,6 +16,7 @@
         outline-color: black; 
 }
 
+
 .Nihao{
         color:cyan;
         background-color: blue;
@@ -27,3 +29,13 @@
         color:blue;
         background-color: cyan;
 }
+
+.banger{
+        color:orangered;
+        font-family: Akashii;
+        animations : blinker 1s linear infinite;
+}
+@keyframes blinker{
+   30%{opacity 0%}   
+}
+    
