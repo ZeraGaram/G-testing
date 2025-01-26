@@ -1,4 +1,5 @@
 
+
 .Boba{
         color:palegreen;
         background-color:chocolate;
@@ -37,5 +38,19 @@
 }
 @keyframes blinker{
    30%{opacity:0;}   
+}
+
+input{
+    color:salmon;
+    padding: 8px;
+    border-radius: 5px;
+    border-color: aqua;
+    
+}
+
+input:focus{
+    color:salmon;
+    border-color: cyan;
+    border-radius: 8px;
 }
     
