@@ -33,9 +33,9 @@
 .banger{
         color:orangered;
         font-family: Akashii;
-        animations : blinker 1s linear infinite;
+        animation : blinker 1s linear infinite;
 }
 @keyframes blinker{
-   30%{opacity 0%}   
+   30%{opacity:0;}   
 }
     
