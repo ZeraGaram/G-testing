@@ -1,6 +1,6 @@
 .Boba{
         color:palegreen;
-        background-color:gainsboro ;
+        background-color:chocolate;
         padding: 10px;
         border-radius: 10px;
         border-radius: 1px solid blue;
@@ -13,4 +13,17 @@
         border-radius: 10px;
         background-color:brown;
         outline-color: black; 
+}
+
+.Nihao{
+        color:cyan;
+        background-color: blue;
+        padding: 10px;
+        border-radius: 10px;
+        border-color: red;
+}
+
+.Nihao:active{
+        color:blue;
+        background-color: cyan;
 }
